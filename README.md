@@ -1,2 +1,2 @@
-# picture_foods_scraper
-Scraper Repo for picture foods
+# picture_foods
+Classify food via TF image recognition.
